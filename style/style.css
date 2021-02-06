@@ -112,7 +112,8 @@ details[open] summary {
     padding-bottom: 1rem;
 }
 
-details summary::-webkit-details-marker {
+details summary::-webkit-details-marker,
+details summary::-moz{
     display: none;
   }
 
