@@ -113,7 +113,7 @@ details[open] summary {
 }
 
 details summary::-webkit-details-marker,
-details summary::-moz{
+details summary::-moz-details-marker {
     display: none;
   }
 
